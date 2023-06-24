@@ -8,8 +8,9 @@ The project uses a movie database to explore what are successful movies?
 
 # Data
 For this project, I have been requested to extract information from the IMDB (Internet Movie Database) and TMDB (The Movie Database) in order to analyze what makes a movie successful.
-[Data Dictionary](https://developer.imdb.com/non-commercial-datasets/)
-[Downloads](https://datasets.imdbws.com/)
+
+### [Data Dictionary](https://developer.imdb.com/non-commercial-datasets/)
+### [Downloads](https://datasets.imdbws.com/)
 
 The data was extracted using API yelp for 2020 and 2021. Working with Coding Dojo also included access to additional years of data. 
 [Additional  years](https://github.com/coding-dojo-data-science/data-enrichment-linear-regression-with-movies/tree/3669d5b9170c2b16a1371c54c65c80de0324f810/Data/2010-2021)
