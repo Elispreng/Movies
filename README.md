@@ -45,3 +45,8 @@ For this project, I have been requested to extract information from the IMDB (In
 
 #### Visual 2: Bar Plot  Showing Revenue by MPAA rating
 ![image](https://github.com/Elispreng/Movies/blob/main/Images/Bar%20Plot%20for%20Revenue%20by%20Rating.png)
+
+### For further information
+
+
+For any additional questions, please contact **doctor.eemail@gmail.com**
