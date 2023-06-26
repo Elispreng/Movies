@@ -14,8 +14,9 @@ For this project, I have been requested to extract information from the IMDB (In
 #### [Additional  years](https://github.com/coding-dojo-data-science/data-enrichment-linear-regression-with-movies/tree/3669d5b9170c2b16a1371c54c65c80de0324f810/Data/2010-2021)
 # Project Stages
 1. Preparing Data and creating 3 files (title basics, ratings, and aka). These files are a  great sources  that includes details about revenue, budget, genres, runtime, and titles.
-2.  Creating a API yelp data extraction and exploratory data analysis
-3.  Prepare movie data base for SQL.
-4.  Hypothesis Testing and Visual
-5.  Extract Data from SQL to Tableau
+2.  Creating a API yelp data extraction and exploratory data analysis.
+3.    - Create 4 filtered databases initally.  
+4.  Prepare movie data base for SQL.
+5.  Hypothesis Testing and Visual
+6.  Extract Data from SQL to Tableau
 # Visual (Seaborn and Tableau)
