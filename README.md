@@ -15,7 +15,11 @@ For this project, I have been requested to extract information from the IMDB (In
 # Project Stages
 1. Preparing Data and creating 3 files (title basics, ratings, and aka). These files are a  great sources  that includes details about revenue, budget, genres, runtime, and titles.
 2.  Creating a API yelp data extraction and exploratory data analysis.
-3.    - Create 4 filtered databases initally.  
+  - Create 4 filtered databases initally.
+      - Movie-Production-Business-Analysis repository
+    - title_basics.csv.gz
+    - title_akas.csv.gz
+    - title_ratings.csv.gz
 4.  Prepare movie data base for SQL.
 5.  Hypothesis Testing and Visual
 6.  Extract Data from SQL to Tableau
