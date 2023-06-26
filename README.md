@@ -20,7 +20,13 @@ For this project, I have been requested to extract information from the IMDB (In
     - title_basics.csv.gz
     - title_akas.csv.gz
     - title_ratings.csv.gz
-4.  Prepare movie data base for SQL.
+4.  Prepare movie data base for SQL and created usable tables
+     - title_basics
+     - title_ratings
+     - title_genres
+     - genres
+     - tmdb_data
 5.  Hypothesis Testing and Visual
 6.  Extract Data from SQL to Tableau
+- working
 # Visual (Seaborn and Tableau)
