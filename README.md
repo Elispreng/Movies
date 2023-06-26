@@ -37,4 +37,4 @@ For this project, I have been requested to extract information from the IMDB (In
 # Visual (Seaborn and Tableau)
 
 #### Visual 1: Bar Graph Showing revenue by Genre (Seaborn)
-![alextext]https://github.com/Elispreng/Movies/blob/main/Images/Bar%20Plot%20for%20Revenue%20by%20Genre.png)https://github.com/Elispreng/Movies/blob/main/Images/Bar%20Plot%20for%20Revenue%20by%20Genre.png)
+![alttext}(https://github.com/Elispreng/Movies/blob/main/Images/Bar%20Plot%20for%20Revenue%20by%20Genre.png)
