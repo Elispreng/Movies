@@ -48,6 +48,14 @@ This plot shows that adventure films generate the most revenue.
 #### Visual 2: Bar Plot  Showing Revenue by MPAA rating
 ![image](https://github.com/Elispreng/Movies/blob/main/Images/Bar%20Plot%20for%20Revenue%20by%20Rating.png)
 
+The plot shows that PG  movies earn the most revenue. 
+
+# Summary and Recommendations
+
+Based on the hypothesis testing and visualizations, several key recommnedations and insights are supported.
+  - PG movies with a runtime of 150 minutes in the adventure genre earn the most revenue.
+  - Films in 2018 earned more revenue than 2020 films during the pandemic. 
+
 ### For further information
 
 
