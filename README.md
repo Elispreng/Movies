@@ -1,7 +1,5 @@
 # Movies
- Updated Dojo Project
-
- ### Under Construction
+ Updated Dojo Project:  Under Construction
 
 # Overview 
 The project uses a movie database to explore what are successful movies? Some of the specific findings reflect impact from the COVID-19 pandemic. 
