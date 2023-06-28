@@ -36,8 +36,8 @@ For this project, I have been requested to extract information from the IMDB (In
      - Did 2018 films generate more revenue than 2020?
      - Do movies that are over 2.5 hours have a significantly different revenue than movies that under 1.5 hours in length?
      - Does the genre of a movie affect how much revenue a movie generates?
-6.  Extract Data from SQL to Tableau
-- working
+6.  Extract Data from SQL to Tableau (under construction)
+  
 # Visual (Seaborn and Tableau)
 
 #### Visual 1: Bar Graph Showing Revenue by Genre (Seaborn)
