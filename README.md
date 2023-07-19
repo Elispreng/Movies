@@ -23,12 +23,16 @@ For this project, I have been requested to extract information from the IMDB (In
     - title_akas.csv.gz
     - title_ratings.csv.gz
 3. Combined movie  data file
-4.  Prepare movie data base for SQL and created usable tables
+4.  Prepare movie data base for SQL and created usable tables that include movie title and names (directors, writers, crew, and actors)
      - title_basics
      - title_ratings
      - title_genres
      - genres
      - tmdb_data
+     - title_professions
+     - names_basis
+     - crew
+     - principals
 5.  Hypothesis Testing and Visuals
      - Does the MPAA rating of a movie affect how much revenue the movie generates?
      - Did 2018 films generate more revenue than 2020?
