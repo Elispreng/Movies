@@ -3,10 +3,10 @@
 
 # Overview 
 The project uses a movie database to explore what are successful movies? Some of the specific findings reflect impact from the COVID-19 pandemic. 
-   - Adventure films generate the most revenue. 
-   - Long  films generate more reveue than short films (2000-2001).
+   - Adventure films generated the most revenue. 
+   - Long  films generated more revenue than short films (2000-2001).
    - Films earned more revenue in 2018  than 2020.
-   - PG filmes create more revenue (2010 - 2020)
+   - PG films created more revenue (2010 - 2020)
 
 # Data
 For this project, I have been requested to extract information from the IMDB (Internet Movie Database) and TMDB (The Movie Database) in order to analyze what makes a movie successful.
